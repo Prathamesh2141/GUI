@@ -6,7 +6,7 @@ root.geometry("400x400")
 
 try:
     # Load the image
-    photo = PhotoImage(file="ok.jpg")
+    photo = PhotoImage(file="https://www.peakpx.com/en/hd-wallpaper-desktop-wkywa")
 
     # Create a label with the image
     pm_label = Label(root, image=photo)
