@@ -1,0 +1,16 @@
+
+Name: pratham
+Phone: 9284765954
+Gender: male
+Emergency Contact: 6666666666
+Payment Mode: cash
+Food Service: 1
+--------------------
+
+Name: 
+Phone: 
+Gender: 
+Emergency Contact: 
+Payment Mode: 
+Food Service: 1
+--------------------
